@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(77, 77, 77);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+main{
+    text-align: center;
+}
+div{
+    width: 600px;
+    margin: auto;
+}
+
+div > p{
+    display: none;
+}
+div:hover > p{
+    display: block;
+    font: normal bold 3em arial;
+    background-color: green;
+}

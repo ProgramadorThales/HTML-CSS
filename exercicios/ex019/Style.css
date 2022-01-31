@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to right, #a4eb8177, #adf78880);
+}
+main{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    width: 800px;
+    margin: auto;
+    margin-top: 0;
+    background-color: white;
+    padding: 10px;
+}
+h1{
+    color: #9E379C ;
+}
+h1#principal{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #9E379C;
+    color: white;
+    text-align: center;
+    font-size: 3em;
+    margin-top: 0;
+}
+.subtitulo{
+    background-color: #78AB5E;
+    color: white;
+    text-align: center;
+}
+h2{
+    color:#78AB5E;
+}
+.basico{
+    color: brown;
+}
+.intermediario{
+    color: #7B8EA5;
+}
+.avancado{
+    color: rgb(179, 179, 2);
+}
+.destaque{
+    font-weight: bold;
+}
+p{
+    color: #4B6B3B;
+    text-align: justify;
+    text-indent: 30px;
+}

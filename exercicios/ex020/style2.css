@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+main{
+    padding: 10px;
+}
+div{
+    background-color: blue;
+    border: solid 5px black;
+    display: inline-block;
+    width: 200px;
+    height: 400px;
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.texto{
+    margin-top: 20px;
+}
+
+p{
+    color: blue;
+    font-size: 2em;
+}
+div:hover{
+    background-color: red;
+    padding: 10px;
+    box-shadow: 5px 5px 8px rgb(0, 0, 0);
+}
