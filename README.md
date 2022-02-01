@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites com HTML e CSS.
 
-<a href="https://programadorthales.github.io/HTML-CSS/exercicios/Ex003/index.html/">Executar o exercício 3</a>
+<a href="https://programadorthales.github.io/HTML-CSS/exercicios/Ex003/index.html/" target="_blank">Executar o exercício 3</a>
